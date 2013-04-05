@@ -1,4 +1,4 @@
-== UsePermalinks ==
+=== UsePermalinks ===
 Contributors: nomad1337, jeherve
 Donate link: http://www.tacticalcode.de/spenden
 Tags: shortlink, permalink, wp_get_shortlink, jetpack, publicize
